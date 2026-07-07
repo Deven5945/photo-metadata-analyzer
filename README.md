@@ -14,12 +14,6 @@
 python -m pip install -r requirements.txt
 ```
 
-개별적으로 설치
-
-```bash
-python -m pip install customtkinter Pillow piexif
-```
-
 **실행**
 
 ```bash
